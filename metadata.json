@@ -1,0 +1,9 @@
+{
+  "name": "AI Virtual Health Assistant",
+  "description": "An advanced AI-powered Healthcare Chatbot and Virtual Health Assistant featuring symptom checking, appointment booking, medical records tracking, medication management, and specialized dashboards for both patients and doctors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
